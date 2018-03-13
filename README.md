@@ -1,2 +1,0 @@
-# CPSC4240_2.0
-A Remake of CPSC4240
